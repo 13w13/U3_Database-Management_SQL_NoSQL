@@ -3,7 +3,7 @@ Kevin Da Silva, Alberto Monari, Antoine Settelen, Simon Weiss
 
 ~1 week development
 
-Notebook link : https://13w13.github.io/U1_Predicting_response_times_of_the_Paris_Fire_Brigade_vehicles/  
+Notebook link : https://13w13.github.io/U3_Database-Management_SQL_NoSQL/
 
 
 ## PART I: SQL PROJECT
